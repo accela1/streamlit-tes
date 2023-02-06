@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import time
 
-st.title("Streamlit hyper入門 動的なウィジェット")
+st.title("Streamlit hyper入門")
 
 st.write("プレぐれすばーの表示")
 "Start"
